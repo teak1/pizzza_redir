@@ -2,5 +2,5 @@
   var url=window.location.search.replace(/\?/g,"").split(",");
   var a = Math.floor(Math.random()*url.length);
   //document.head.write("<meta http-equiv=\"refresh\" content=\"2;url=\"mailto:"+(names[a])+"@sterneschool.org\" />");
-  window.location.replace("mailto:"+url);
+  window.location.replace("mailto:"+url[a]);
   </script></head><body><h1>REDIRECTING</h1></body></html>
