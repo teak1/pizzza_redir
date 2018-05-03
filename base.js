@@ -1,7 +1,213 @@
 function getBase(){
 return `  
-THE ONIONCLICKHOLETHE A.V. CLUBDEADSPINEARTHERGIZMODOJALOPNIKJEZEBELKOTAKULIFEHACKERSPLINTERTHE TAKEOUTTHE ROOT  POLITICS SPORTS LOCAL ENTERTAINMENT OPINION VIDEO CLICKHOLE  Facebook Addresses Accusations Of Silencing Conservative Voices By Deleting Barack Obama’s Profile  Increasingly Obsessed Robert Mueller Forces Wife To Dye Hair Blond, Dress Like Ivanka  Kanye West: ‘I Would’ve Ridden Away From A Slave Plantation On A Motorcycle First Chance I Got’ LOS ANGELES—Insisting that the legal, centuries-long practice of slavery in America could never have limited his personal or artistic ambitions, Kanye West stated Wednesday that if he had been born into captivity, he would have simply escaped the plantation on his motorcycle “the first chance [he] got.” “If that slave owner so much as fixed his lips to say something…  Continue Reading  New Historical Drama Just 90 Minutes Of Woman Holding Up Petticoats While Running Through Open Field LONDON—An early review confirmed Wednesday that upcoming historical drama The Sisters Of Darington Manor was just 90 minutes of a woman holding up her petticoats while scampering through an open field. “After the opening credits roll, it’s really just an hour and a half of a woman in a silk gown grabbing the hems of her petticoat while she hurries along a windswept…  Continue Reading  Shared from ClickHole A New Beginning: After Formally Ending Their 65-Year War, North And South Korea Have Teamed Up To Invade Italy 59 minutes ago  Since 1950, the Korean peninsula has been torn apart by war, with the threat of violent conflict constantly looming on both sides of the demilitarized zone. But now, North and South Korea have finally decided to put their differences aside, and the two countries are already taking massive strides to build a new and…  PHOTO FINISH Shared from Sports No Fucking Chance Kid Who Brought Mitt To 400 Level Getting Near Foul Ball Today 10:20am   INFOGRAPHIC Pros And Cons Of Lowering The Voting Age Today 10:02am  A recent upsurge in youth activism in the U.S. and other countries has led lawmakers to consider the proposal to lower the voting age from 18 to 16, but many people are against extending the vote to even younger people. The Onion presents the pros and cons of lowering the voting age.  Recent Video from The OnionVIEW ALL 5 Things To Know About John Bolton 4/10/18 4:06pm NEWS IN BRIEF Men’s Wearhouse Introduces Clip-On Trousers For Guys Who Never Learned How To Put On Pants Today 9:54am  HOUSTON—Touting the garment as a stylish alternative for the gentleman on the go, Men’s Wearhouse announced Thursday it would be adding a new line of clip-on trousers for guys who never learned to put on pants. “These attractive, high-quality trousers clip easily to your shirt for a convenient, no-fuss pants-wearing…  AMERICAN VOICES Guitar Maker Gibson Files For Bankruptcy Today 9:37am  Legendary guitar maker Gibson, whose brands include Les Paul and SG, filed for bankruptcy due to its $500 million debt in the hopes of refocusing on its core guitar-making business. What do you think?   NEWS IN PHOTOS Boy Scout Officials: ‘We Believe All Children, Regardless Of Gender, Deserve The Opportunity To One Day Die Alone In The Woods’ Yesterday 4:34pm  NEWS IN PHOTOS Cambridge Analytica Offers 75% Off All Facebook User Data For Blowout Closing Sale Yesterday 4:26pm  NEWS IN PHOTOS Shared from Politics Ty Cobb Returns To Old Private Practice In Enchanted Forest Toadstool Yesterday 4:12pm  NEWS IN BRIEF Shared from Entertainment Kanye West: ‘I Would’ve Ridden Away From A Slave Plantation On A Motorcycle First Chance I Got’ Yesterday 3:39pm  LOS ANGELES—Insisting that the legal, centuries-long practice of slavery in America could never have limited his personal or artistic ambitions, Kanye West stated Wednesday that if he had been born into captivity, he would have simply escaped the plantation on his motorcycle “the first chance [he] got.” “If that slave…   Shared from ClickHole Goodbye Tinder: Facebook’s New Dating App Finally Allows You To Romantically Connect With Your Dad’s Friend Who Likes All Your Posts Even Though You’ve Never Met Him Yesterday 3:15pm  Online dating can be a serious headache, and it’s more likely you’ll find yourself stuck in an endless cycle of dead-end first dates than in a compatible match. But if you’re experiencing dating app fatigue, don’t lose hope of finding that special someone just yet, because Facebook just announced a brand-new dating…  AMERICAN VOICES Facebook Announces Dating Service Yesterday 3:07pm  Mark Zuckerberg announced plans to add a Tinder-style dating service to its mobile app later this year, noting that it would be completely optional and that a user’s friends would not see their dating profile. What do you think?  SPORTS NEWS IN BRIEF Shared from Sports Joe Maddon Saves Up All His Mound Visits For One Long Trip In 8th Inning Yesterday 2:57pm  CHICAGO—Touting the lack of pressure to squeeze something into every second of the excursion, Cubs manager Joe Maddon confirmed Wednesday that he was saving up his mound visits for one long trip in the eighth inning. “I used to like spreading out my visits across the whole game, but then I realized it’s far more…  NEWS IN PHOTOS Shared from Local Tornado Creeped Out By Man Who Keeps Following It In Truck And Filming It Yesterday 2:40pm  NEWS IN BRIEF Facebook Addresses Accusations Of Silencing Conservative Voices By Deleting Barack Obama’s Profile Yesterday 2:32pm  MENLO PARK, CA—In an effort to ensure the impartiality of content shared on its platform, Facebook CEO Mark Zuckerberg announced Wednesday that the company would address accusations of silencing conservative voices by deleting Barack Obama’s profile. “I want to give all our valued right-leaning users my full assurance…  NEWS IN PHOTOS Saudi Prince Visits Injured Yemeni Child In Hospital To Finish The Job Yesterday 12:46pm  NEWS IN PHOTOS Shared from Local Real Life Magic School Bus Flies Through Human Body Yesterday 12:18pm  NEWS IN BRIEF Shared from Politics Increasingly Obsessed Robert Mueller Forces Wife To Dye Hair Blond, Dress Like Ivanka Yesterday 11:25am  WASHINGTON—With the Trump probe constantly preoccupying more and more of the special investigator’s mind, Robert Mueller has reportedly forced his wife this week to dye her hair and dress in expensive jewelry and designer gowns identical to those worn by Ivanka Trump. “Dammit, go get a different clutch and put on the…  VIDEO 5 Things To Know About The Annual NRA Meeting Yesterday 10:13am  EDITORIAL CARTOON Driven To Greatness Yesterday 9:45am  NEWS IN BRIEF Shared from Entertainment New Historical Drama Just 90 Minutes Of Woman Holding Up Petticoats While Running Through Open Field Yesterday 9:37am  LONDON—An early review confirmed Wednesday that upcoming historical drama The Sisters Of Darington Manor was just 90 minutes of a woman holding up her petticoats while scampering through an open field. “After the opening credits roll, it’s really just an hour and a half of a woman in a silk gown grabbing the hems of…  MORE FROM THE ONION  Gym Patron Just Resting For A Second Until Will To Live Returns  3-Year-Old Pretending Stuffed Animals Having Big Fight About Accidental Pregnancy  Trump Boys Ransack Mueller’s Office To Steal Answer Key To Questions For Their Dad  Netanyahu Provides Stunning New Evidence That Iranians Planned Sacking Of Babylon In 539 B.C. More stories  You may also like Entertainment Kanye West: ‘I Would’ve Ridden Away From A Slave Plantation On A Motorcycle First Chance I Got’ Yesterday 3:39pm Local Tornado Creeped Out By Man Who Keeps Following It In Truck And Filming It Yesterday 2:40pm The Onion Pros And Cons Of Lowering The Voting Age Today 10:02am  Recent videos from The Onion 5 Things To Know About The Annual NRA Meeting<em></em> 5 Things To Know About The Annual NRA Meeting Yesterday 10:13am ‘Avengers: Infinity War’ By The Numbers<em></em> ‘Avengers: Infinity War’ By The Numbers 4/27/18 11:24am Is Andrew Luck Fully Recovered From His Quadruple-Amputation Surgery?<em></em> Is Andrew Luck Fully Recovered From His Quadruple-Amputation Surgery? 4/27/18 7:09am   Want The Onion’s email newsletter? Daily Headlines Weekly Updates  Your email address Subscribe About Need Help? The Onion Store Privacy Terms of Use Advertising Jobs More from our network The Onion is not intended for readers under 18 years of age. © 2018 Onion, Inc.
- THE ONIONCLICKHOLETHE A.V. CLUBDEADSPINEARTHERGIZMODOJALOPNIKJEZEBELKOTAKULIFEHACKERSPLINTERTHE TAKEOUTTHE ROOT   NEWS IN BRIEF Kanye West: ‘I Would’ve Ridden Away From A Slave Plantation On A Motorcycle First Chance I Got’ Yesterday 3:39pmSEE MORE: KANYE WEST  LOS ANGELES—Insisting that the legal, centuries-long practice of slavery in America could never have limited his personal or artistic ambitions, Kanye West stated Wednesday that if he had been born into captivity, he would have simply escaped the plantation on his motorcycle “the first chance [he] got.” “If that slave owner so much as fixed his lips to say something to me, I would’ve just hopped on my Harley and ridden to freedom—probably would’ve popped a wheelie through the cotton fields as I peeled off, too,” said the Grammy Award winner, adding that while he “vibed with certain Negro spirituals,” there was simply no way he would subject himself to the hardships of slavery. “There’s nothing that could ever stop me from making music. Point-blank. I would’ve parked my chopper at the studio and recorded an album about my experiences in the fields, inspiring slaves throughout the land to free themselves from their mental prison.” At press time, sources confirmed West had taken to social media to unveil a new line of tour merchandise loosely inspired by the Underground Railroad.  Recent Video from The OnionVIEW MORE > Should The Browns Use The First Overall Pick On A Once-In-A-Generation Long Snapper? 4/26/18 12:36pm RECOMMENDED STORIES  Publicist Worried Kanye West’s Support Of Trump Will Damage His Carefully Crafted Public Image As A Manic Self-Absorbed Lunatic  Taylor Swift Grateful Kanye West Controversy Taking Heat Off New Swastika Tattoo  Nation Suddenly Concerned About Black Man's Opinion  You may also like Entertainment New Historical Drama Just 90 Minutes Of Woman Holding Up Petticoats While Running Through Open Field Yesterday 9:37am Entertainment Publicist Worried Kanye West’s Support Of Trump Will Damage His Carefully Crafted Public Image As A Manic Self-Absorbed Lunatic 4/26/18 10:24am Entertainment Super Fan Attends Screening Of ‘Infinity War’ Dressed As Marvel’s VP Of Marketing 4/26/18 7:00pm   ShareTweet
- CLICKHOLETHE ONIONTHE A.V. CLUBDEADSPINEARTHERGIZMODOJALOPNIKJEZEBELKOTAKULIFEHACKERSPLINTERTHE TAKEOUTTHE ROOT LIFESTYLE NEWS VOICES QUIZZES CLICKVENTURES PATRIOTHOLE VIDEO  NEWS A New Beginning: After Formally Ending Their 65-Year War, North And South Korea Have Teamed Up To Invade Italy Today 10:28amSEE MORE: NORTH KOREA 2  Since 1950, the Korean peninsula has been torn apart by war, with the threat of violent conflict constantly looming on both sides of the demilitarized zone. But now, North and South Korea have finally decided to put their differences aside, and the two countries are already taking massive strides to build a new and lasting diplomatic relationship: After formally ending their 65-year war, North and South Korea have teamed up to invade Italy.  So powerful. It looks like peace has come to the Korean Peninsula at last.  Following a meeting at the 38th parallel north, where leaders of each country agreed to a peace treaty, North Korean Supreme Leader Kim Jong-un and South Korean President Moon Jae-in joined hands to announce that the militaries of both Korean nations were currently marching across the Alps and determined to conquer Italy one region at a time. The strength of this newfound partnership is undeniable, with the typically adversarial Kim Jong-un claiming that Italy’s land has always belonged to the Korean people, and that his armed forces will proudly march alongside South Korea’s in harmony until every inch of Italy, from the snow-capped mountains of northern Piedmont to the serene cliff-side vistas of the southern Amalfi Coast, had become designated as Korean territory.  In a moving gesture of friendship, Moon Jae-in then smiled at Kim Jong-un before announcing that the years of violence between their two nations were officially over, and together North and South Korea would support one another as they slaughtered any Italian freedom fighters who opposed them.  “My friend, I cannot wait until we are standing arm in arm, watching our soldiers raise the flags of our two noble nations high above the newly founded Korean Republic of Italy,” President Moon said with tears in his eyes. The two men then embraced as a large television screen behind them began to play live footage of North and South Korean soldiers driving tanks through the streets of Venice.  Absolutely beautiful. For two countries that have been at odds for more than half a century, it can’t be overstated just how amazing it is to see them act as one team to plunder Italy and claim its people and resources as their own. It just goes to show that when warring nations work together instead of against each other, anything is possible.  Recent Video from ClickHoleVIEW MORE > Post This On Your Facebook Wall To Let Your Friends Know That You Are Religious Now For Some Reason 4/25/18 11:15am RECOMMENDED STORIES  Body Positivity FTW: Trojan Has Released A New Line Of Extra-Small Condoms For Men Whose Penises Are Shorter Than 15 Inches  Which One Of My Enchanted Marionettes That Love North Korea And America The Same Amount Are You?  4 Signs That Your Therapist Is Going Straight To Six Flags Great America After Your Session  You may also like ClickHole Body Positivity FTW: Trojan Has Released A New Line Of Extra-Small Condoms For Men Whose Penises Are Shorter Than 15 Inches Yesterday 11:38am ClickHole When This High Schooler Asked Emma Stone To Be His Date To Prom, She Said Yes But Then Got So Trashed In The Limo On The Way… Today 9:50am ClickHole Gamers Rejoice: Steam Is Having A Sale This Week On 50 Pounds Of Hot Salad For Only $5 Yesterday 1:09pm   ShareTweet Want ClickHole’s email newsletter?  Your email address Subscribe About Need Help? Content Guide Privacy Terms of Use Advertising Jobs More from our network ClickHole uses invented names in all of its stories, except in cases where public figures are being satirized. Any other use of real names is accidental and coincidental. ClickHole is not intended for readers under 18 years of age. © 2018 Onion, Inc.
+Bose SoundLink Bluetooth Mobile Speaker II
+From Wikipedia, the free encyclopedia
+Bose SoundLink Bluetooth Mobile Speaker II
+Manufacturer	Bose
+Connectivity	Bluetooth
+3.5 millimetres TRRS
+Dimensions	Height 5”
+Wide 9.5”
+2.6” Thick[1]
+Weight	2.78 pounds[1]
+Predecessor	Bose SoundLink Bluetooth Mobile Speaker
+Successor	Bose SoundLink Bluetooth Mobile Speaker III
+Related articles	Bose SoundLink
+Website	www.bose.com
+Bose Soundlink II is a Bluetooth portable speaker manufactured and marketed by Bose Corporation. It is known to produce quality sound and was rated one of the best among speakers of its class by PC Magazine and CNET. The speaker belongs to a line of Bluetooth speakers that includes Bose SoundLink and Bose SoundLink III.
+
+The speaker received positive reviews with particular praise devoted to the reproduction of bass and sub-bass. Numerous publications noted that the speaker handles the low end very well for its small size. However, the speaker has been criticized for being expensive and lacking additional functionality such as speakerphone capability.
+
+Contents 
+1	Reception
+2	Hardware
+3	Design
+4	Sound
+5	See also
+6	References
+Reception
+The second generation SoundLink received an "Excellent" rating from PC Magazine and retained the Editors' Choice award that was given to its predecessor. PC Magazine noted about the speaker: "Bose products may have their detractors in audiophile circles, but there are many things the company does right, and some the company does brilliantly."[2] CNET gave the speaker an "Excellent" rating and commented: "While the SoundLink Bluetooth Mobile Speaker II may no longer be in a class by itself, it's still near the top of the portable Bluetooth speaker category."[1] Meta review site Engadget showed overall positive rating.[3] Nick Guy of Ilounge rated the speaker at "B-" and, while commenting positively about its industrial design and compactness, mentioned that the speaker is "seriously underpowered for the price versus competitors".[4] Josh Covington, the Editor-in-Chief of Geeky product reviews, gave the speaker 4.25 out of 5 and commented that it produces very good sound quality considering its size yet lacks the speakerphone feature.[5]
+
+Hardware
+Bose SoundLink II includes new neodymium transducers, dual-opposing passive radiators and a revised digital signal processing that gives the speaker slightly better sound compared to the original version. It includes a built-in rechargeable battery that powers the speaker for 3 to 4 hours of use at high volume levels and 6–8 hours at moderate volume levels. The unit is charged via a proprietary charger.[1]
+
+Design
+Bose SoundLink II looks virtually identical to the original model, with a design that reflects some of the lines of Apple products.[1] Minor changes have been made to the design of the integrated protective cover/stand, which automatically turns the speaker off when closed in what has been called a 'bi-fold' design.[6] On top of the case there is a row of oversized buttons: Power, Multifunctions (mute, previous or next track, play/pause, siri, accept/decline/end call), Bluetooth, Volume - and Volume +; and on the back there is a micro USB port and a 3.5mm jack auxiliary input. The new version can remember up to eight devices for automatic pairing, with a possibility of 2 devices both connected.[2]
+
+Sound
+SoundLink II plays incredibly loud for its size without distortion and delivers "rich, clear and detailed sound for all types of music: acoustic guitar, rock and pop, like what you'd get from a larger speaker."[1] It doesn't retain original sound though due to a lot of digital signal processing and therefore may not be suitable for audiophiles that would like to listen to a natural sound. The processing is done to prevent distortion and increase the output, and the resulting sound is nice.[2] The sound quality has improved a bit from a previous version of the speaker. The new model produces kick drum that is slightly punchier "with a short "boom" tail". The speaker has an enhanced upper midrange and a "smoother, airier-sounding high range". Baritone sounded clear and full over acoustic guitar in Bill Callahan's "Drover" during the PC Magazine testing.[2]
+Rayven Justice
+From Wikipedia, the free encyclopedia
+Rayven Justice
+Born	August 13, 1991 (age 26)
+Oakland, California
+Origin	East Oakland
+Genres	R&B, soul, hip hop (hyphy)
+Occupation(s)	Hella Loud Music Group
+Instruments	Vocals
+Years active	2008––present
+Labels	Rayven Justice Music Group,LLC, Empire Distribution, NuFace Entertainment
+Associated acts	Jonn Hart, Iamsu, TeeFlii, Problem, Waka Flocka Flame, Migos, French Montana Waka Flocka Eric Bellinger, Young V
+Website	RayvenJustice510.com
+Rayven Justice is an American Rapper And Singer and Actor From Oakland, California, he first started his career as part of the rap and songwriter duo Justice Brothers with his brother Raymen. Rayven Justice began pursuing a full-time solo career in 2010, and his vocals typically blend R&B with "a hip hop beat and plenty of bass."[1] His collaborative album Both Sides of the Tracks was released in 2012, and he has also collaborated with artists such as French Montana, Dubb, Iamsu!, TeeFlii, Problem, Waka Flocka Flame, Pleasure P, and Migos. After releasing a number of singles, Rayven Justice released his I Have a Dream EP and album in 2014. Currently based in Oakland, he tours regularly.
+
+Contents 
+1	Early life
+2	Music career
+2.1	2010-12: First releases
+2.2	2013: "Slide Thru" and collaborations
+2.3	August 2014: I Have a Dream EP and album
+3	Style and equipment
+4	Discography
+4.1	Albums
+4.2	Extended plays
+4.3	Singles
+4.4	Guest appearances
+5	References
+6	External links
+Early life
+Rayven Justice was born on August 13, 1991 in Oakland, California.[2] Raised in East Oakland, in his youth he started making music with his younger brother, singing and rapping under his legal name Rayven Justice. His brother's name Raymen Justice, and together they formed the hip hop and R&B musical duo Justice Brothers. After his brother was shot and killed in 2010,[3] Rayven Justice decided to commit himself full-time to music in his brother's memory.[2]
+
+Music career
+2010-12: First releases
+In 2010 he collaborated on the track "Throw the Cash," which proved to be Rayven Justice's first significant breakthrough.[2] The single was later included on his August 2011 mixtape Something About Rayven. In 2012 he soon after released the album Both Sides of the Tracks.[2] Rayven Justice released several singles that summer as well. In 2013 he partnered with Rita Lee, CEO of Nuface Entertainment, to form Rayven Justice Music Group, and Signed a non exclusive distribution deal with Empire Distribution.Although a partnership with California based label Urban Life Distribution with aegis of Sony RED was planned , Justice chose EMPIRE Distribution .[3]
+
+2013: "Slide Thru" and collaborations
+External video
+ Rayven Justice - "Slide Thru" (Explicit) on VEVO (Dec 4, 2013)
+In late 2013 he released his single "Slide Thru," which featured Migos. It was published through Empire Distribution in San Francisco,[4] and received regular airplay on the Bay Area radio station KMEL.[3] Wrote Complex.com about the song in 2014, "it shows how very slight variations on an existing formula can create radically different effects on the listener, the cartoonish 'I'm Different' pianos mutating into enigmatic atmosphere."[4] A remix of "Slide Thru" by Migos was later released in March 2014.
+
+In January 2014, he release the mixtape I have a dream was released by January 20, 2014
+
+August 2014: I Have a Dream EP and album
+He has toured in support of his music, opening KMEL's annual Summer Jam concert held at the Oracle Arena in Oakland.[3] According to Rayven Justice, the Oracle Arena performance held personal significance, as he and his younger brother had previously promised one another never to attend Summer Jam unless they were performing at the event.[5] He was living in the Bay Area as of early 2014, also spending time in Los Angeles to collaborate with rappers and producers[6] such as TeeFlii.,[6][7] and in September he toured throughout much of the United States with Compton rapper Problem .
+
+On August 19, 2014 he released the EP I Have a Dream, with tracks such as "Slide Thru," "I See You" featuring Kool John, and "Hit or Nah."[3] The album was released on his own record label, with the singles distributed through Empire Distribution. He released a second remix of his earlier track "Slide Thru" in October 2014, with a feature by Atlanta rapper Waka Flocka Flame.[8] A music video for their collaboration was released in early November, as was an album-length version of I Have a Dream Deluxe. Rayven Justice is one of several Bay Area artists selected to perform at the first EMPIRE Unplugged live recording session on December 11, 2014, which also included other soul and R&B artists such as Chinx Uncle Murda Joe Moses Eric Bellinger, Jonn Hart, and Lyrica Anderson.[9]
+
+In early 2015, he released a single with aspiring rapper Ankit Oswal "AO" under the label Team3MG. This topped multiple charts on youtube, and desi-hiphop. He is currently working with AO on a second single expected to be released in early 2017.[10]
+
+July 17, 2015 Rayven Justice released The Cassette Playlist Mixtape hosted by Dj Carisma.
+
+Style and equipment
+Rayven Justice's songs typically blend R&B stylings and vocals with "a hip hop beat and plenty of bass."[1]
+
+Discography
+Albums
+Selected albums by Rayven Justice
+Year	Album title
+Both Sides of the Tracks	
+Released: 2012
+Format: CD, digital
+On Tour Volume 1	
+Released: Nov 2013
+Format: CD, digital
+I Have a Dream
+(Deluxe Edition)	
+Released: Nov 4, 2014
+Label: Rayven Justice Music Group, LLC/ Empire Distribution
+Format: CD, digital
+! " The Cassette Playlist
+(EP )" |
+
+Released: July 17, 2015
+Label: Rayven Justice Music Group, LLC/
+Empire Distribution
+
+Format: Digital
+Extended plays
+Extended plays by Rayven Justice
+Year	Album title	Release details
+2014	I Have a Dream - EP	
+Released: Aug 19, 2014
+Label: Rayven Justice Music Group, LLC
+Format: CD, digital
+Singles
+Incomplete list of songs by Rayven Justice
+Year	Title	Chart peaks	Album	Release details
+Emerging
+Artists[2]
+2011	"Throw the Cash on Her"	—	Something About Rayven	Big Cat (Aug 23, 2011)
+"Came to Party"	—	Cosmonauts	Ice King (Oct 1, 2011)
+2012	"Grabbin' on my Zipper"	—	Single	Ice King (Jul 9, 2012)
+"Cheater"	—	Single	Ice King (Aug 21, 2012)
+2013	"Slide Thru" (ft. Migos)	24	Single/I Have a Dream EP	(late 2013)
+2014	"Slide Thru (Remix)" (ft. Waka Flocka Flame)	—	Single	Rayven Justice (Mar 25, 2014)
+"Hit or Nah"	—	Single/I Have a Dream	Teris V/Rayven Justice (May 20, 2014)
+"Forgot Your Name"	—	Single	(Aug 25, 2014)
+"On Mamas" (ft. TeeFlii and Problem)	—	Single	Rayven Justice (Sep 5, 2014)
+"Might as Well"	—	Single	(Dec 1, 2014)
+"How I Do It"	—	Single	(Dec 1, 2014)
+Guest appearances
+Selected songs featuring Rayven Justice
+Year	Single name	Primary artist(s)	Album	Release details
+2013	"Ride on It" (ft. Rayven Justice,
+Iamsu!, Sage the Gemini, etc.)	Armani DePaul	Single	Rapbay (Jul 23, 2013)[11]
+Music video[11]
+"Yike On It" (ft. Rayven Justice,
+Iamsu!, Rossi, etc.)	Single	Rapbay (Jul 23, 2013)[11]
+Music video
+2014	"She Gon' Roll It" (ft. Rayven Justice and Iamsu!)	Dubb	Never Content	RBC (Jan 28, 2014)[12]
+"Real One" (ft. Rayven Justice)	Sleepy D	Single	Empire (Jul 21)
+2015	"Keep Ridin" (ft. Rayven Justice)[13]	Ankit Oswal (AO)	Single	Major Moves Music Group
+"Gamed Up" (ft. Rayven Justice)[14]	E-40	Poverty & Prosperity	Heavy on the Grind, Universal (Nov 15, 2015)
+This is a featured list. Click here for more information.
+Hugo Award for Best Fanzine
+From Wikipedia, the free encyclopedia
+You have a new message from another user (last change).
+Hugo Award for Best Fanzine
+Awarded for	The best non-professional magazine devoted primarily to science fiction or fantasy
+Presented by	World Science Fiction Society
+First awarded	1955
+Most recent winner	Lady Business (Clare, Ira, Jodie, KJ, Renay, and Susan)
+Website	thehugoawards.org
+
+Ira and Susan accepting the 2017 Hugo Award for Best Fanzine for Lady Business
+The Hugo Awards are given every year by the World Science Fiction Society for the best science fiction or fantasy works and achievements of the previous year. The award is named after Hugo Gernsback, the founder of the pioneering science fiction magazine Amazing Stories, and was once officially known as the Science Fiction Achievement Award.[1] The award has been described as "a fine showcase for speculative fiction" and "the best known literary award for science fiction writing".[2][3] The Hugo Award for Best Fanzine was given each year for non professionally edited magazines, or "fanzines", related to science fiction or fantasy, published in English, and which has published four or more issues with at least one issue appearing in the previous calendar year.[4] Awards were also once given out for professional magazines in the professional magazine category, and since 1984 have been awarded for semi-professional magazines in the semiprozine category; several magazines that were nominated for or won the fanzine category have gone on to be nominated for or win the semiprozine category since it was established.
+
+The award was first presented in 1955, and has been given annually since except for in 1958. A "fanzine" is defined for the award as a magazine that does not meet the Hugo award's criteria for a professional or semi-professional magazine. Specifically, it must meet less than two of the five Hugo criteria for consideration as a semiprozine: that the magazine had an average press run of at least one thousand copies per issue, paid its contributors and/or staff in other than copies of the publication, provided at least half the income of any one person, had at least fifteen percent of its total space occupied by advertising, and announced itself to be a semiprozine.[5] This is the oldest long-running Hugo award for fan activity; in 1967 Hugo Awards were added specifically for fan writing and fan art. In addition to the regular Hugo awards, beginning in 1996 Retrospective Hugo Awards, or "Retro Hugos", have been available to be awarded for years 50, 75, or 100 years prior in which no awards were given.[6] To date, Retro Hugo awards have been awarded for 1939, 1941, 1946, 1951, and 1954, and the fanzine category has been included each year.[7]
+
+Hugo Award nominees and winners are chosen by supporting or attending members of the annual World Science Fiction Convention (Worldcon), and the presentation evening constitutes its central event. The selection process is defined in the World Science Fiction Society Constitution as instant-runoff voting with six nominees, except in the case of a tie. The works on the ballot are the six most-nominated by members that year, with no limit on the number of works that can be nominated. The 1955 and 1956 awards did not include any recognition of runner-up magazines, but since 1957 all of the candidates were recorded.[6] Initial nominations are made by members in January through March, while voting on the ballot of six nominations is performed roughly in April through July, subject to change depending on when that year's Worldcon is held.[8] Prior to 2017, the final ballot was five works; it was changed that year to six, with each initial nominator limited to five nominations.[9] Worldcons are generally held near the start of September, and are held in a different city around the world each year.[1][10]
+
+During the 69 nomination years, including Retro Hugo years, 128 magazines run by 177 editors have been nominated. Of these, 39 magazines run by 67 editors have won, including ties. Locus has won 8 times out of 13 nominations, the most wins of any magazine. Mimosa has won 6 of 14 nominations and File 770 has won 6 of 31, the most nominations of any magazine. Ansible has won 5 out of 11 and Science Fiction Review has won 4 of 12; they are the only other magazines to win more than twice. Challenger has the most nominations without winning at 12; the next highest is FOSFAX with 7. As editor of Locus Charles N. Brown has won 8 of 13 nominations, though he shared 8 of those awards with Dena Brown. Richard E. Geis has won 6 of 15 nominations for his work on Science Fiction Review, Psychotic, and The Alien Critic; Mike Glyer has won 7 of 31 for editing File 770; David Langford has won 5 of 12 for work on Ansible and Twil-Ddu; and Richard Lynch and Nicki Lynch have both won 6 of 14 nominations for Mimosa. Guy H. Lillian III has the most nominations without winning at 12 for Challenger.
+
+Contents 
+1	Winners and nominees
+1.1	Retro Hugos
+2	Notes
+3	References
+4	External links
+Winners and nominees
+In the following table, the years correspond to the date of the ceremony, rather than when the work was first published. Each date links to the "year in literature" article corresponding with when the work was eligible. Entries with a blue background won the award for that year; those with a white background are the other nominees on the short-list. Note that five magazines are listed under multiple names: Psychotic was later renamed to Science Fiction Review, Zenith was renamed to Zenith Speculation and later to Speculation, Algol was renamed to Starship, Tangent was renamed to Tangent Online when it switched from a print magazine to an online one, and Cry of the Nameless, a club bulletin for "The Nameless Ones", was renamed to Cry when it began publishing more general material. No other magazines have been nominated under multiple names.[11][12][13] Those magazines are sorted under the first name they were nominated as.
+Marc'Aurelio
+From Wikipedia, the free encyclopedia
+Marc'Aurelio
+Marc'Aurelio magazine.jpg
+Categories	Satirical magazine
+Frequency	Weekly
+Founder	Oberdan Catone
+Vito De Bellis
+Year founded	1931
+Final issue	1958
+Country	Italy
+Based in	Rome
+Language	Italian
+Marc'Aurelio was an Italian satirical magazine, published between 1931 and 1958, and briefly resurrected in 1973.
+
+Contents 
+1	History and profile
+2	See also
+3	References
+4	Further reading
+History and profile
+The weekly magazine was founded in Rome by Oberdan Catone and Vito De Bellis in 1931. It was the first satirical magazine to be started in Italy following the forced closure of other satirical magazines by the Fascist regime, particularly Il Becco Giallo, of which it inheredit many collaborators.[1] It immediately distinguished itself for its original humour, often abstract and surreal.[2][3] Initially polemic and courageous, after several judicial seizures it gradually ignored political themes and focusing in a humour which was an end in itself, eventually getting a large success and selling over 300,000 copies a week.[3][4]
+
+In 1952 it was launched a Ligurian edition of the magazine, directed by Enzo La Rosa. In 1954 the magazine became fortnightly, and shortly later monthly.[3]
+
+In 1955 Marc'Aurelio was acquired by the publisher Corrado Tedeschi who moved the editorial staff in Florence, and the magazine reprised its weekly basis. It eventually ceased its publications in 1958.[5][6]
+
+Many young collaborators of the magazine including Federico Fellini, Steno, Vittorio Metz, Ettore Scola, Cesare Zavattini, Age & Scarpelli, Ruggero Maccari, after the World War II started successful careers in the Italian film industry.[5][7]
+
+In 1973 Delfina Metz (the daughter of Vittorio), with the artistic supervision of Enrico De Seta, shortly relaunched the magazine, which definitely closed the same year after 26 issues.[3][5]
+
 `
 }
